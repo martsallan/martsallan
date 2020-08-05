@@ -29,8 +29,9 @@ You can use the website to generate badges: https://shields.io/
 <h5 align="left">💻 Javascript | React | TypeScript | C | C# | Phyton | Git | MySQL | SQLite 
 
 <h5 align="left">💼 No work at moment. </h5>
-<img width="55%" align="center" alt="Github"
-    src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<p align="center">
+  <img width="55%" align="center" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+</p>
 
 
 &nbsp;
