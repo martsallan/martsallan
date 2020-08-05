@@ -22,14 +22,15 @@ You can use the website to generate badges: https://shields.io/
 <p align="left">
   I'm currently graduating in Computer Science from Federal University Fluminense - UFF and completed courses in Computer Technician(Programming) and Technical Support Analyst(Assembly and maintenance of computers). I have always been passionate about technology and started at the time of programming at least 4 years ago, during my technical course in computing that dealt with programming and I never had contact with the code area, which until then I am passionate about.
 </p>
-<img width="55%" align="right" alt="Github"
-    src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 <h5 align="left">
   📌  Living in <b>Rio das Ostras</b>, <b>Rio de Janeiro</b>, <b>Brazil</b>  
 </h5>
 <h5 align="left">💻 Javascript | React | TypeScript | C | C# | Phyton | Git | MySQL | SQLite 
 
 <h5 align="left">💼 No work at moment. </h5>
+<img width="55%" align="center" alt="Github"
+    src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
 &nbsp;
