@@ -46,7 +46,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 <table>
   <tr>
       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martsallan&hide=html&layout=compact" /></td>
-      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=martsallan&theme=default" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=martsallan&theme=default" /></td>
   </tr>   
 </table>
 </center>
@@ -58,11 +58,11 @@ Both apis are in trouble due to the number of requests, if you know any other to
 -->
 &nbsp;
 
-<p align="center">
+<!--<p align="center">
     <a href="/">
         <img alt="ViewCount" src="https://komarev.com/ghpvc/?username=martsallan&color=blueviolet" />
     </a>
-</p>
+</p>-->
 
 
 <!-- Its main projects -->
