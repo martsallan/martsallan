@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Allan Martins, a Fullstack Developer 🚀 from Brazil.
+## Hi, I'm Allan.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
