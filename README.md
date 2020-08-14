@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Allan.
+## Hi, I'm Allan. 👋
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
