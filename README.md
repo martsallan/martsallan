@@ -20,7 +20,7 @@ You can use the website to generate badges: https://shields.io/
 <h4 align="left">
 </h4>
 <p align="left">
-  I'm currently graduating in Computer Science from Universidade Federal Fluminense - UFF and completed courses in Computer Technician(Programming) and Technical Support Analyst(Assembly and maintenance of computers). I have always been passionate about technology and started at the time of programming at least 4 years ago, during my technical course in computing that dealt with programming and I never had contact with the code area, which until then I am passionate about.
+  I'm currently graduating in Computer Science from Universidade Federal Fluminense - UFF and completed courses in Computer Technician (Programming) and Technical Support Analyst (Assembly and maintenance of computers). I am a person who always tries to keep me updated with the new technologies that are emerging in the software development part, and of course, I try to be ready to enter the job market when I graduate.
 </p>
 
 <h5 align="left">
