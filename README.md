@@ -33,12 +33,6 @@ You can use the website to generate badges: https://shields.io/
   <a href="mailto:allanmartins@id.uff.br" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=allanmartins@id.uff.br" /></a>
 
-  <!---<a href="https://www.linkedin.com/in/iuricode" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode" /></a>-->
-
-  <a href="https://api.whatsapp.com/send?phone=55229810778818&text=Ol%C3%A1%2C%20Allan!%20Vi%20seu%20port%C3%B3lio%20online%2C%20poderia%20me%20falar%20mais%20sobre%20seu%20trabalho%3F" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=55229810778818&text=Olá%20Allan,%20tudo%20bem?"/></a>
-  
   <a href="https://www.linkedin.com/in/martsallan" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/martsallan" /></a>
 
