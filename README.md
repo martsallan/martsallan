@@ -1,38 +1,53 @@
 <!-- Your title -->
-## Hi, I'm Allan. 👋
+## 👋
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/martsallan)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/martsallan/)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/martsallan/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:allanmartins@id.uff.br)
-
-&nbsp;
 
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
 
-<h4 align="left">
-</h4>
+<img src="https://i.imgur.com/6YoDxTE.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+<p align="left"> 
+  Hello, my name is Allan. I am <strong>Full Stack Developer</strong> and <strong>Designer</strong>.<br>
+  I am studying <strong>Computer Science</strong> at Universidade Federal Fluminense - UFF.
+</p>
+
 <p align="left">
-  I'm currently graduating in Computer Science from Universidade Federal Fluminense - UFF and completed courses in IT Programmer Technician and Technical Support Analyst (Computer Assembling and Maintenance). I am a person who always tries to keep me updated with the new technologies that are emerging in the software development part, and of course, I try to be ready to enter the job market when I graduate.
+  :pencil2: Skills: <strong>HTML5, CSS, JavaScript/TypeScript, C/C++, Phyton, Java, MySQL, React</strong>
 </p>
 
-<h5 align="left">
-  📌  Living in <b>Rio das Ostras</b>, <b>Rio de Janeiro</b>, <b>Brazil</b>  
-</h5>
-<h5 align="left">💻 Javascript | React | TypeScript | C | C# | Phyton | Git | MySQL | SQLite 
-
-<h5 align="left">💼 No work at moment. </h5>
-<p align="center">
-  <img width="55%" align="center" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<p align="left">
+  💼 Tools: <strong>Visual Studio Code, PhotoShop, Premiere, Adobe, Netlify, GitHub.</strong>
 </p>
 
+<p align="left">
+  💌 If you want to carry out a project with me (or make small talk), don't hesitate to send me a message: ⤵️
+</p>
+
+<p align="left">
+  <a href="mailto:allanmartins@id.uff.br" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=allanmartins@id.uff.br" /></a>
+
+  <!---<a href="https://www.linkedin.com/in/iuricode" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode" /></a>-->
+
+  <a href="https://api.whatsapp.com/send?phone=55229810778818&text=Ol%C3%A1%2C%20Allan!%20Vi%20seu%20port%C3%B3lio%20online%2C%20poderia%20me%20falar%20mais%20sobre%20seu%20trabalho%3F" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=55229810778818&text=Olá%20Allan,%20tudo%20bem?"/></a>
+  
+  <a href="https://www.linkedin.com/in/martsallan" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/martsallan" /></a>
+
+  <a href="https://www.facebook.com/martsallan/" alt="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/martsallan/"/></a>
+
+  <a href="https://www.instagram.com/martsallan/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/martsallan/"/></a>
+</p>  
 
 &nbsp;
 
