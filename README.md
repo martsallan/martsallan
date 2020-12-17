@@ -24,7 +24,7 @@ You can use the website to generate badges: https://shields.io/
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Visual Studio Code, PhotoShop, Premiere, Adobe, Netlify, GitHub.</strong>
+  💼 Tools: <strong>Visual Studio Code, Photoshop, Premiere, Adobe, Netlify, GitHub.</strong>
 </p>
 
 <p align="left">
