@@ -17,6 +17,8 @@ You can use the website to generate badges: https://shields.io/
   I am studying <strong>Computer Science</strong> at Universidade Federal Fluminense - UFF.
 </p>
 
+- ✨ Learning is continuous and there will always be a next level
+
 <p align="left">
   :pencil2: Skills: <strong>HTML5, CSS, JavaScript/TypeScript, NodeJS, C/C++, Phyton, Java, MySQL, React</strong>
 </p>
