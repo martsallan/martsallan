@@ -45,7 +45,7 @@ You can use the website to generate badges: https://shields.io/
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/martsallan/"/></a>
 </p>  
 
-&nbsp;
+![](https://komarev.com/ghpvc/?username=martsallan)
 
 **Stats:**
 
