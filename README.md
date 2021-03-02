@@ -13,7 +13,7 @@ You can use the website to generate badges: https://shields.io/
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Hello, my name is Allan. I am <strong>Full Stack Developer</strong> and <strong>Designer</strong>.<br>
+  Hello, my name is Allan. I am <strong>Full Stack Developer</strong>.<br>
   I am studying <strong>Computer Science</strong> at Universidade Federal Fluminense - UFF.
 </p>
 
