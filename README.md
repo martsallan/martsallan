@@ -20,7 +20,7 @@ You can use the website to generate badges: https://shields.io/
 - ✨ Learning is continuous and there will always be a next level
 
 <p align="left">
-  :pencil2: Skills: <strong>HTML5, CSS, JavaScript/TypeScript, NodeJS, C/C++, Phyton, Java, MySQL, React</strong>
+  :pencil2: Skills: <strong> HTML5, CSS, JavaScript, NodeJS, Phyton, MySQL, React, C/C++ </strong></strong>
 </p>
 
 <p align="left">
