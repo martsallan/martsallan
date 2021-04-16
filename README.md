@@ -23,9 +23,9 @@ You can use the website to generate badges: https://shields.io/
   :pencil2: Skills: <strong> HTML5, CSS, JavaScript, NodeJS, Phyton, MySQL, React, C/C++ </strong></strong>
 </p>
 
-<p align="left">
+<!--<p align="left">
   💼 Tools: <strong>Visual Studio Code, Photoshop, Premiere, Adobe, Netlify, GitHub.</strong>
-</p>
+</p>-->
 
 <p align="left">
   💌 If you want to carry out a project with me (or make small talk), don't hesitate to send me a message: ⤵️
