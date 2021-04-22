@@ -13,19 +13,24 @@ You can use the website to generate badges: https://shields.io/
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Hello, my name is Allan. I am <strong>Full Stack Developer</strong>.<br>
+  Hello, my name is Allan and i'm 23 years old.
   I am studying <strong>Computer Science</strong> at Universidade Federal Fluminense - UFF.
+</p>
+
+<p align="left">
+  :pencil2: My interests: <strong>C/C++, HTML5, CSS, JavaScript, TypeScript, NodeJS, Phyton, MySQL, ReactJS, NextJS.</strong>
 </p>
 
 - ✨ Learning is continuous and there will always be a next level
 
+
 <p align="left">
-  :pencil2: Skills: <strong> HTML5, CSS, JavaScript, NodeJS, Phyton, MySQL, React, C/C++ </strong></strong>
+  📚 I’m currently studying on <strong>web development technologies</strong>.
 </p>
 
-<!--<p align="left">
-  💼 Tools: <strong>Visual Studio Code, Photoshop, Premiere, Adobe, Netlify, GitHub.</strong>
-</p>-->
+<p align="left">
+  🚩 <strong>Future Goals</strong>: Contribute more to the community and learn more about new technologies that arise.
+</p>
 
 <p align="left">
   💌 If you want to carry out a project with me (or make small talk), don't hesitate to send me a message: ⤵️
