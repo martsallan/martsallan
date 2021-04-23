@@ -61,8 +61,8 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 <center>
 <table>
   <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martsallan&layout=compact" /></td>
-      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=martsallan&theme=default" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martsallan&layout=compact&theme=radical" /></td>
+      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=martsallan&theme=radical&show_icons=true&include_all_commits=true" /></td>
   </tr>   
 </table>
 </center>
