@@ -59,7 +59,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 
 <p align="center">
-<img align="" height='180px' src="https://github-readme-stats.vercel.app/api?username=martsallan&hide_title=true&show_icons=true&theme=gotham" alt="martsallan" /><img align="" height='180px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=martsallan&hide_title=false&layout=compact&theme=gotham&count_private=true" />
+<img align="" height='150px' src="https://github-readme-stats.vercel.app/api?username=martsallan&hide_title=true&show_icons=true&theme=gotham" alt="martsallan" /><img align="" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=martsallan&hide_title=false&layout=compact&theme=gotham&count_private=true" />
 </p>
 <br>
 
