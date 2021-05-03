@@ -52,20 +52,16 @@ You can use the website to generate badges: https://shields.io/
 
 ![](https://komarev.com/ghpvc/?username=martsallan)
 
-**Stats:**
+**GitHub Stats:**
 
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 
-<center>
-<table>
-  <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martsallan&layout=compact&theme=radical" /></td>
-      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=martsallan&theme=radical&show_icons=true&include_all_commits=true" /></td>
-  </tr>   
-</table>
-</center>
+<p align="center">
+<img align="" height='180px' src="https://github-readme-stats.vercel.app/api?username=martsallan&hide_title=true&show_icons=true&theme=gotham" alt="martsallan" /><img align="" height='180px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=martsallan&hide_title=false&layout=compact&theme=gotham&count_private=true" />
+</p>
+<br>
 
 
 <!-- Your hits or visitors
