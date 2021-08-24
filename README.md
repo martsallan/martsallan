@@ -63,11 +63,12 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 </p>
 <br>
 
+<div align="center">
+  
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 
-<!-- Your hits or visitors
-site: http://hits.dwyl.com or https://visitor-badge.glitch.me
-Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
--->
 &nbsp;
 
 <!--<p align="center">
