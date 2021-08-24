@@ -63,26 +63,6 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 </p>
 <br>
 
-<div align="center">
-  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-
 &nbsp;
-
-<!--<p align="center">
-    <a href="/">
-        <img alt="ViewCount" src="https://komarev.com/ghpvc/?username=martsallan&color=blueviolet" />
-    </a>
-</p>-->
-
-
-<!-- Its main projects -->
-<!--<p align="center">
-  <a href="/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=/&repo=/" />
-  </a>
-</p>-->
 
 <!-- This readme was created with ♥ by martsallan - https://github.com/martsallan -->
