@@ -25,7 +25,7 @@ You can use the website to generate badges: https://shields.io/
 
 
 <p align="left">
-  📚 I’m currently studying on <strong>web development technologies</strong>.
+  📚 I’m currently studying <strong>Ruby on Rails</strong>.
 </p>
 
 <p align="left">
