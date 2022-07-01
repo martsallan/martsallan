@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi there! I'm Allan Martins <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi there! I'm Allan Martins.
 
 <!-- Talking about you -->
 Always looking to evolve and improve in all aspects.
