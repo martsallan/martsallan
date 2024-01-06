@@ -10,7 +10,7 @@ Always looking to evolve and improve in all aspects.
 
 &nbsp;
 
-- 🏢 I'm currently working (internship) at **[STI-UFF](https://www.uff.br/sti)**
+- 🏢 
 - ⚙️ I use daily: `.rb`,`.erb`, `.js`, `.html`, `.css`
 - 🌱 Learning all about **Ruby on Rails**
 
